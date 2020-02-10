@@ -2,11 +2,11 @@
     "name": "wimmcms/core",
     "version": "0.1.0",
     "description": "Basic functions for content management system. Used in Wimm CMS",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Matilde Enevoldsen",
-            "email": "matildeene@outlook.com"
+            "email": "admin@wimm.media"
         }
     ],
     "homepage": "https://github.com/wimmcms/core",
